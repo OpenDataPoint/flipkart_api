@@ -32,10 +32,11 @@ The API returns a JSON object containing subcategories and their details:
 # Example 💡
 
 ### base
-**curl --request GET \
+```bash curl --request GET \
 	--url 'https://real-time-flipkart-api.p.rapidapi.com/get-subcategories?id=tyy' \
 	--header 'x-rapidapi-host: real-time-flipkart-api.p.rapidapi.com' \
-	--header 'x-rapidapi-key: fd3f1114b1msh3d69719929fe501p1f1b72jsn2432d43bd3d1'**
+	--header 'x-rapidapi-key: fd3f1114b1msh3d69719929fe501p1f1b72jsn2432d43bd3d1'
+```
 
  # Response
 
