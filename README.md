@@ -71,11 +71,10 @@ The API returns a JSON object containing subcategories and their details:
       }
     }
   },
-  // ... more categories
 }
 
 
-### This endpoint provides a quick way to assess the authority and popularity of a domain in the eyes of Ahrefs 🏆. Use it to compare websites, evaluate link prospects, or track your own domain's progress over time!
+### This endpoint provides a comprehensive view of Flipkart's category structure, allowing you to navigate through the product hierarchy and access specific category details. Use it to build category trees, create navigation menus, or analyze Flipkart's product organization! 🌟🛍️
 
 
-# [Check Ahrefs API](https://rapidapi.com/opendatapoint-opendatapoint-default/api/ahrefs-api/playground)
+# [Check Ahrefs API](https://rapidapi.com/opendatapoint-opendatapoint-default/api/real-time-flipkart-api/playground)
