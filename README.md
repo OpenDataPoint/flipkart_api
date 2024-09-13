@@ -78,4 +78,4 @@ The API returns a JSON object containing subcategories and their details:
 ### This endpoint provides a comprehensive view of Flipkart's category structure, allowing you to navigate through the product hierarchy and access specific category details. Use it to build category trees, create navigation menus, or analyze Flipkart's product organization! 🌟🛍️
 
 
-# [Check Ahrefs API](https://rapidapi.com/opendatapoint-opendatapoint-default/api/real-time-flipkart-api/playground)
+# [Check Flipkart API](https://rapidapi.com/opendatapoint-opendatapoint-default/api/real-time-flipkart-api/playground)
